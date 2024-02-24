@@ -47,7 +47,7 @@ article.cards_inner {
     display: flex;
     flex-wrap: wrap;
     gap: 1.5em;
-    background-color: skyblue;
+    /* background-color: skyblue; */
 }
 
 
@@ -65,6 +65,27 @@ article.cards_inner {
     border: 1px solid #eceff133;
     border-radius: 15px;
 }
+
+section.card > h2 {
+    background-color: rebeccapurple;
+}
+
+section.card > p {
+    background-color: aqua;
+}
+
+section.card > ul {
+    background-color: brown;
+}
+
+section.card > a {
+    background-color: cadetblue;
+}
+
+section.card > ul li {
+    background-color: chocolate;
+}
+
 
 .card_bullets {
     line-height: 1.4;
