@@ -49,7 +49,7 @@ ul {
   display: flex;
   flex-wrap: wrap;
   gap: 1.5em;
-  background-color: skyblue;
+  /* background-color: skyblue; */
 }
 
 .card {
@@ -58,7 +58,7 @@ ul {
   flex: 1 1 14rem;
   padding: 1.5em 2em;
   display: grid;
-  grid-template-rows:auto auto auto auto 1fr;
+  grid-template-rows:auto auto auto 1fr;
   align-items: start;
   gap: 1.25em;
   color: #eceff1;
