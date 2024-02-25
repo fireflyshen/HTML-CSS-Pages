@@ -13,6 +13,65 @@
 }
 
 
+.root-nav {
+    background-color: #333333;
+    height: 40px;
+}
+
+.topbar-nav{
+    float: left;
+}
+
+.container > ul > li {
+    float: left;
+}
+
+.container > ul > li a {
+    display: inline-block;
+    text-decoration: none;
+    color: #F5F5F5;
+    font-size: 12px;
+    line-height: 40px;
+}
+
+.topbar-login{
+    float: right;
+}
+
+.cart {
+    display: inline-block;
+    width: 120px;
+    height: 40px;
+    line-height: 40px;
+    margin: 0 0 0 15px;
+    background: #424242;
+    text-align: center;
+}
+
+.cart a{
+    /* color: #FFFFFF; */
+    font-size: 12px;
+    text-decoration: none;
+    color: #b0b0b0;
+}
+
+.cart a::before {
+    content: '\e600';
+    margin-right: 3px;
+    line-height: 40px;
+    font-size: 17px;
+}
+
+
+
+
+.sep {
+    float: left;
+    color: #fff;
+    line-height: 40px;
+    margin: 0 .3em;
+}
+
 .clearfix::after {
     content: "";
     display: table;
@@ -27,6 +86,7 @@
     margin-left: auto;
     margin-right: auto;
     font-family: "League Spartan";
+    /* background-color: #ff6700; */
 }
 
 
@@ -210,7 +270,8 @@ img {
 
 
 
-.swiper-button-next::after,.swiper-button-prev::after {
+.swiper-button-next::after,
+.swiper-button-prev::after {
     background-image: none !important;
     content: "";
 }
@@ -220,7 +281,7 @@ img {
     font-family: iconfont;
     font-size: 40px;
     color: #757575;
-    
+
 
 }
 
@@ -229,13 +290,13 @@ img {
     font-family: iconfont;
     font-size: 40px;
     color: #757575;
-     
+
 }
 
 .swiper-button-next {
     right: 0;
     padding: 10px;
-  
+
 }
 
 .swiper-button-prev {
@@ -376,7 +437,7 @@ img {
 }
 
 
-.home-main-container{
+.home-main-container {
     background-color: #F5F5F5;
 }
 
@@ -393,7 +454,7 @@ img {
 }
 
 .title {
-   
+
     font-size: 22px;
     font-weight: 200;
     line-height: 58px;
@@ -408,9 +469,11 @@ img {
     /* display: inline-block; */
     display: block;
     position: absolute;
+    /* width: 200px; */
     top: 0;
     right: 0;
     height: 58px;
+    /* width: 100%; */
     /* background: red; */
 
 }
@@ -423,11 +486,16 @@ img {
     height: 100%;
     font-size: 17px;
     line-height: 58px;
-    /* color: #424242; */
-    color: #757575;
+    text-align: center;
+    color: #424242;
+    /* color: #757575;*/
     text-decoration: none;
     transition: ease-in-out .3s;
-    /* background-color: #333;   */
+    /* background-color: #333;    */
+}
+
+.a-gap {
+    margin-right: 30px;
 }
 
 .more a i {
@@ -448,6 +516,8 @@ img {
 
 .span4 {
     width: 234px;
+    /* position: relative; */
+    background-color: skyblue;
 }
 
 
@@ -456,6 +526,7 @@ img {
     background-color: aqua;
 }
 
+
 .brick-items {
     float: left;
     height: 614px;
@@ -463,44 +534,171 @@ img {
 }
 
 
-.brick-item  {
+.brick-item-h {
+    /* display: flex; */
+    float: left;
+    /* margin-right: 14px; */
+    height: 614px;
+    /* margin-left: 0; */
+    width: 100%;
+
+}
+
+.brick-item {
     /* display: inline-block; */
     float: left;
     /* margin-left: 10px; */
-    width: 234px;
-    /* background-color: ghostwhite; */
+
+    /* background: red; */
+    text-align: center;
+    /* height: 100%; */
+    /* width: 100%; */
+    margin-left: 14px;
+    margin-bottom: 14px;
+    /* background-color: skyblue; */
+}
+
+/* .brick-item-hi {
+    float: left; */
+/* margin-left: 10px; */
+
+/* background: red; */
+/* text-align: center;
+    height: 100%;
+    width: 100%; */
+/* margin-left: 14px ; */
+/* margin-bottom: 14px; 
+} */
+
+
+.brick-item-h li {
+    /* text-align: left; */
+    /* height: 100%; */
+    /* background-color: skyblue; */
+    width: 100%;
+    /* position: absolute; */
+
 }
 
 .brick-item-2 {
+    position: relative;
     height: 300px;
-    margin-left: 14px ;
-    margin-bottom: 14px;
+    width: 234px;
+    /* margin: 0 auto; */
     background-color: #FFFFFF;
 }
 
-.brick-goods-items {
-    width: 992px;
-
+.brick-item-s {
+    float: left;
+    height: 93px;
+    padding-top: 50px;
+    background-color: #FFFFFF;
+    /* text-align: center; */
+    margin-left: 14px;
+    margin-bottom: 14px;
 }
 
-.brick-item-2 > a{
-    display: block;
+ul.brick-items div:last-of-type li i::before {
+    content: "\e666";
+    font-size: 48px;
+    color: orange;
+    line-height: 100%;
+}
+
+
+
+
+.brick-goods-items {
+    width: 992px;
+    /* background-color: #FF6701; */
+}
+
+.brick-item-2 a {
+    display: inline-block;
     box-sizing: border-box;
     padding: 20px 0;
+    /* margin: 10px; */
     text-decoration: none;
+    /* background-color: #FFFFFF; */
+}
+
+.brick-item-s a {
+    /* display: inline-block; */
+    /* box-sizing: border-box; */
+    text-decoration: none;
+
+    padding: 0px;
+    /* height: 100%; */
+    /* background-color: skyblue; */
+    /* width: 100%; */
+    /* margin: 0; */
+    color: #333;
+}
+
+.brick-item-s a div {
+    /* height: 100%; */
+}
+
+.brick-item-s i {
+    position: absolute;
+    right: 35px;
+    top: 48px;
+}
+
+.brick-item-s .more {
+    /* display: block;  */
+    /* position: absolute; */
+    /* top: 48px; */
+    /* background-color: skyblue; */
+    margin: 0 100px 0 30px;
+    /* width: 100%; */
+    /* width: 100%; */
+    /* padding-left: 30px; */
+    position: relative;
+    /* background-color: skyblue; */
+    font-size: 18px;
+    color: #333;
+}
+.brick-item-s small {
+    display: block;
+    font-size: 12px;
+}
+
+.brick-item-s .price {
+    margin: 0 110px 0 30px;
+    font-size: 12px;
+    color: #ff6700;
+}
+
+.brick-item-s h3 {
+    margin: -10px 110px 5px 30px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.brick-item-h .brick-item {
+    margin-left: 0;
 }
 
 .figure-img {
     width: 160px;
     height: 160px;
     /* background-color: #FF6701; */
-    
-    margin: 18px auto 0;
-    margin: 0 auto 18px;
+    margin: 0 auto;
+    /* background: #333; */
 }
 
 
-.figure-img-title{
+.figure-img-s {
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    right: 20px;
+    top: 32px;
+}
+
+
+.figure-img-title {
     margin: 0 10px 2px;
     text-align: center;
     font-size: 16px;
@@ -523,3 +721,10 @@ img {
     margin: 0 10px 14px;
 }
 
+.brick-item-s .price {
+    text-align: left;
+}
+
+.home-banner-end {
+    margin: 30px 0;
+}

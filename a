@@ -1,0 +1,308 @@
+  <div class="brick-goods-items-container">
+                                    <ul class="brick-goods-items brick-items">
+                                        <li class="brick-item brick-item-2">
+                                            <a href="">
+                                                <div class="figure-img">
+                                                    <img width="160" height="160" alt="Redmi K70 Pro" data-src="//cdn.cnbj1.fds.api.mi-img.com/mi-mall/2e920ac7e3d197923acbd6388b80cc49.png?thumb=1&amp;w=200&amp;h=200&amp;f=webp&amp;q=90" src="//cdn.cnbj1.fds.api.mi-img.com/mi-mall/2e920ac7e3d197923acbd6388b80cc49.png?thumb=1&amp;w=200&amp;h=200&amp;f=webp&amp;q=90" lazy="loaded">
+                                                </div>
+                                                <h3 class="figure-img-title">
+                                                    Redmi K70 Pro
+                                                </h3>
+                                                <p class="desc">
+                                                    第三代晓龙8，年度旗舰平台
+                                                </p>
+                                                <p class="price">
+                                                    <span class="num">3299</span>元起
+                                                </p>
+                                            </a>
+                                        </li> 
+                                        <li class="brick-item brick-item-2">
+                                            <a href="">
+                                                <div class="figure-img">
+                                                    <img width="160" height="160" alt="Redmi K70E" data-src="//cdn.cnbj1.fds.api.mi-img.com/nr-pub/202311281019_bf131f8cb94d59e370cb84cae6ad5e49.png?thumb=1&amp;w=200&amp;h=200&amp;f=webp&amp;q=90" src="//cdn.cnbj1.fds.api.mi-img.com/nr-pub/202311281019_bf131f8cb94d59e370cb84cae6ad5e49.png?thumb=1&amp;w=200&amp;h=200&amp;f=webp&amp;q=90" lazy="loaded">
+                                                </div>
+                                                <h3 class="figure-img-title">
+                                                    Redmi K70
+                                                </h3>
+                                                <p class="desc">
+                                                   第二代晓龙8 旗舰芯
+                                                </p>
+                                                <p  class="price">
+                                                    <span class="num">2499</span>元起
+                                                </p>
+                                            </a> 
+                                        </li> 
+                                        <li class="brick-item brick-item-2">
+                                            <a href="">
+                                                <div class="figure-img">
+                                                    <img width="160" height="160" alt="Xiaomi 14 Pro" data-src="//cdn.cnbj1.fds.api.mi-img.com/nr-pub/202310251928_35fb2880108e9aa56fdcf7f894249f26.png?thumb=1&amp;w=200&amp;h=200&amp;f=webp&amp;q=90" src="//cdn.cnbj1.fds.api.mi-img.com/nr-pub/202310251928_35fb2880108e9aa56fdcf7f894249f26.png?thumb=1&amp;w=200&amp;h=200&amp;f=webp&amp;q=90" lazy="loaded">
+                                                </div>
+                                                <h3 class="figure-img-title">
+                                                    Redmi K70E
+                                                </h3>
+                                                <p class="desc">
+                                                    第一代旗舰悍门员
+                                                </p>
+                                                <p  class="price">
+                                                    <span class="num">1899</span>元起
+                                                </p>
+                                            </a>
+                                        </li> 
+                                        <li class="brick-item brick-item-2">
+                                            <a href="">
+                                                <div class="figure-img">
+                                                    <img width="160" height="160" alt="Redmi Note 13 5G" data-src="//cdn.cnbj1.fds.api.mi-img.com/nr-pub/202309200032_5beee8420f9734b24d538e68e5c655ac.png?thumb=1&amp;w=200&amp;h=200&amp;f=webp&amp;q=90" src="//cdn.cnbj1.fds.api.mi-img.com/nr-pub/202309200032_5beee8420f9734b24d538e68e5c655ac.png?thumb=1&amp;w=200&amp;h=200&amp;f=webp&amp;q=90" lazy="loaded">
+                                                </div>
+                                                
+                                                <h3 class="figure-img-title">
+                                                    Xiaomi 14 Pro
+                                                </h3>
+                                                <p class="desc">
+                                                    徕卡Summilux可变光圈镜头｜小米澎...
+                                                </p>
+                                                <p  class="price">
+                                                    <span class="num">4999</span>元起
+                                                </p>
+                                            </a>
+                                        </li> 
+                                        <li class="brick-item brick-item-2">
+                                            <a href="">
+                                                <div class="figure-img">
+                                                    <img width="160" height="160" alt="Redmi K70" data-src="//cdn.cnbj1.fds.api.mi-img.com/nr-pub/202311281411_fc68b941c011a8bbf67db570d0985d7a.png?thumb=1&amp;w=200&amp;h=200&amp;f=webp&amp;q=90" src="//cdn.cnbj1.fds.api.mi-img.com/nr-pub/202311281411_fc68b941c011a8bbf67db570d0985d7a.png?thumb=1&amp;w=200&amp;h=200&amp;f=webp&amp;q=90" lazy="loaded">
+                                                </div>
+                                                <h3 class="figure-img-title">
+                                                    Xiaomi 14
+                                                </h3>
+                                                <p class="desc">
+                                                    徕卡光学Summilux镜头｜小米澎湃O...
+                                                </p>
+                                                <p  class="price">
+                                                    <span class="num">3999</span>元起 
+                                                </p>
+                                            </a>
+                                        </li> 
+                                        <li class="brick-item brick-item-2">
+                                            <a href="">
+                                                <div class="figure-img">
+                                                    <img width="160" height="160" alt="Xiaomi 14" data-src="//cdn.cnbj1.fds.api.mi-img.com/nr-pub/202310251937_a4ac1ae382a402426beb915f401e50e5.png?thumb=1&amp;w=200&amp;h=200&amp;f=webp&amp;q=90" src="//cdn.cnbj1.fds.api.mi-img.com/nr-pub/202310251937_a4ac1ae382a402426beb915f401e50e5.png?thumb=1&amp;w=200&amp;h=200&amp;f=webp&amp;q=90" lazy="loaded">
+                                                </div>
+                                                <h3 class="figure-img-title">
+                                                    Redmi Note 13 Pro
+                                                </h3>
+                                                <p class="desc">
+                                                    小金刚品质
+                                                </p>
+                                                <p  class="price">
+                                                    <span class="num">1399</span>元起 
+                                                </p>
+                                            </a>
+                                        </li> 
+                                        <li class="brick-item brick-item-2">
+                                            <a href="">
+                                                <div class="figure-img">
+                                                    <img width="160" height="160" alt="Redmi Note 13 Pro+" data-src="//cdn.cnbj1.fds.api.mi-img.com/nr-pub/202309200034_b724e1ddef5a0bf5c79c273193b7073c.png?thumb=1&amp;w=200&amp;h=200&amp;f=webp&amp;q=90" src="//cdn.cnbj1.fds.api.mi-img.com/nr-pub/202309200034_b724e1ddef5a0bf5c79c273193b7073c.png?thumb=1&amp;w=200&amp;h=200&amp;f=webp&amp;q=90" lazy="loaded">
+                                                </div>
+                                                <h3 class="figure-img-title">
+                                                    Redmi Note 13 Pro+
+                                                </h3>
+                                                <p class="desc">
+                                                    天玑 7200-Ultra 处理器
+                                                </p>
+                                                <p  class="price">
+                                                    <span class="num">1899</span>元起
+                                                </p>
+                                            </a>
+                                        </li> 
+                                        <li class="brick-item brick-item-2">
+                                            <a href="">
+                                                <div class="figure-img">
+                                                    <img width="160" height="160" alt="Redmi Note 13 Pro" data-src="//cdn.cnbj1.fds.api.mi-img.com/nr-pub/202309200030_9a6a9bf107f4b4a7a25e4ccedf0c1174.png?thumb=1&amp;w=200&amp;h=200&amp;f=webp&amp;q=90" src="//cdn.cnbj1.fds.api.mi-img.com/nr-pub/202309200030_9a6a9bf107f4b4a7a25e4ccedf0c1174.png?thumb=1&amp;w=200&amp;h=200&amp;f=webp&amp;q=90" lazy="loaded">
+                                                </div>
+                                                <h3 class="figure-img-title">
+                                                    Redmi Note 13 5G
+                                                </h3>
+                                                <p class="desc">
+                                                    1 亿像素 更快更清晰
+                                                </p>
+                                                <p  class="price">
+                                                    <span class="num">999</span>元起 
+                                                </p>
+                                            </a>
+                                        </li> 
+                                    </ul>
+                                </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                            <div class="box-hd">
+                                <h2 class="title">
+                                    智能穿戴
+                                </h2>
+                                <div class="more">
+                                    <a href="" class="a-gap">
+                                        耳机
+                                    </a>
+                                    <a href="">
+                                        穿戴
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="box-content clearfix">
+                                <div class="span4">
+                                    <ul class="brick-items">
+                                        <li class="brick-item">
+                                            <img alt="" data-src="//cdn.cnbj1.fds.api.mi-img.com/mi-mall/414cb0e8ff030c0dacff7531d720955e.png?thumb=1&amp;w=234&amp;h=614&amp;f=webp&amp;q=90" src="//cdn.cnbj1.fds.api.mi-img.com/mi-mall/414cb0e8ff030c0dacff7531d720955e.png?thumb=1&amp;w=234&amp;h=614&amp;f=webp&amp;q=90" lazy="loaded"> 
+                                        </li>
+                                    </ul>
+                                </div>
+    
+                                <div class="brick-goods-items-container">
+                                    <ul class="brick-goods-items brick-items">
+                                        <li class="brick-item brick-item-2">
+                                            <a href="">
+                                                <div class="figure-img">
+                                                    <img width="160" height="160" alt="Redmi K70 Pro" data-src="//cdn.cnbj1.fds.api.mi-img.com/mi-mall/2e920ac7e3d197923acbd6388b80cc49.png?thumb=1&amp;w=200&amp;h=200&amp;f=webp&amp;q=90" src="//cdn.cnbj1.fds.api.mi-img.com/mi-mall/2e920ac7e3d197923acbd6388b80cc49.png?thumb=1&amp;w=200&amp;h=200&amp;f=webp&amp;q=90" lazy="loaded">
+                                                </div>
+                                                <h3 class="figure-img-title">
+                                                    Redmi K70 Pro
+                                                </h3>
+                                                <p class="desc">
+                                                    第三代晓龙8，年度旗舰平台
+                                                </p>
+                                                <p class="price">
+                                                    <span class="num">3299</span>元起
+                                                </p>
+                                            </a>
+                                        </li> 
+                                        <li class="brick-item brick-item-2">
+                                            <a href="">
+                                                <div class="figure-img">
+                                                    <img width="160" height="160" alt="Redmi K70E" data-src="//cdn.cnbj1.fds.api.mi-img.com/nr-pub/202311281019_bf131f8cb94d59e370cb84cae6ad5e49.png?thumb=1&amp;w=200&amp;h=200&amp;f=webp&amp;q=90" src="//cdn.cnbj1.fds.api.mi-img.com/nr-pub/202311281019_bf131f8cb94d59e370cb84cae6ad5e49.png?thumb=1&amp;w=200&amp;h=200&amp;f=webp&amp;q=90" lazy="loaded">
+                                                </div>
+                                                <h3 class="figure-img-title">
+                                                    Redmi K70
+                                                </h3>
+                                                <p class="desc">
+                                                   第二代晓龙8 旗舰芯
+                                                </p>
+                                                <p  class="price">
+                                                    <span class="num">2499</span>元起
+                                                </p>
+                                            </a> 
+                                        </li> 
+                                        <li class="brick-item brick-item-2">
+                                            <a href="">
+                                                <div class="figure-img">
+                                                    <img width="160" height="160" alt="Xiaomi 14 Pro" data-src="//cdn.cnbj1.fds.api.mi-img.com/nr-pub/202310251928_35fb2880108e9aa56fdcf7f894249f26.png?thumb=1&amp;w=200&amp;h=200&amp;f=webp&amp;q=90" src="//cdn.cnbj1.fds.api.mi-img.com/nr-pub/202310251928_35fb2880108e9aa56fdcf7f894249f26.png?thumb=1&amp;w=200&amp;h=200&amp;f=webp&amp;q=90" lazy="loaded">
+                                                </div>
+                                                <h3 class="figure-img-title">
+                                                    Redmi K70E
+                                                </h3>
+                                                <p class="desc">
+                                                    第一代旗舰悍门员
+                                                </p>
+                                                <p  class="price">
+                                                    <span class="num">1899</span>元起
+                                                </p>
+                                            </a>
+                                        </li> 
+                                        <li class="brick-item brick-item-2">
+                                            <a href="">
+                                                <div class="figure-img">
+                                                    <img width="160" height="160" alt="Redmi Note 13 5G" data-src="//cdn.cnbj1.fds.api.mi-img.com/nr-pub/202309200032_5beee8420f9734b24d538e68e5c655ac.png?thumb=1&amp;w=200&amp;h=200&amp;f=webp&amp;q=90" src="//cdn.cnbj1.fds.api.mi-img.com/nr-pub/202309200032_5beee8420f9734b24d538e68e5c655ac.png?thumb=1&amp;w=200&amp;h=200&amp;f=webp&amp;q=90" lazy="loaded">
+                                                </div>
+                                                
+                                                <h3 class="figure-img-title">
+                                                    Xiaomi 14 Pro
+                                                </h3>
+                                                <p class="desc">
+                                                    徕卡Summilux可变光圈镜头｜小米澎...
+                                                </p>
+                                                <p  class="price">
+                                                    <span class="num">4999</span>元起
+                                                </p>
+                                            </a>
+                                        </li> 
+                                        <li class="brick-item brick-item-2">
+                                            <a href="">
+                                                <div class="figure-img">
+                                                    <img width="160" height="160" alt="Redmi K70" data-src="//cdn.cnbj1.fds.api.mi-img.com/nr-pub/202311281411_fc68b941c011a8bbf67db570d0985d7a.png?thumb=1&amp;w=200&amp;h=200&amp;f=webp&amp;q=90" src="//cdn.cnbj1.fds.api.mi-img.com/nr-pub/202311281411_fc68b941c011a8bbf67db570d0985d7a.png?thumb=1&amp;w=200&amp;h=200&amp;f=webp&amp;q=90" lazy="loaded">
+                                                </div>
+                                                <h3 class="figure-img-title">
+                                                    Xiaomi 14
+                                                </h3>
+                                                <p class="desc">
+                                                    徕卡光学Summilux镜头｜小米澎湃O...
+                                                </p>
+                                                <p  class="price">
+                                                    <span class="num">3999</span>元起 
+                                                </p>
+                                            </a>
+                                        </li> 
+                                        <li class="brick-item brick-item-2">
+                                            <a href="">
+                                                <div class="figure-img">
+                                                    <img width="160" height="160" alt="Xiaomi 14" data-src="//cdn.cnbj1.fds.api.mi-img.com/nr-pub/202310251937_a4ac1ae382a402426beb915f401e50e5.png?thumb=1&amp;w=200&amp;h=200&amp;f=webp&amp;q=90" src="//cdn.cnbj1.fds.api.mi-img.com/nr-pub/202310251937_a4ac1ae382a402426beb915f401e50e5.png?thumb=1&amp;w=200&amp;h=200&amp;f=webp&amp;q=90" lazy="loaded">
+                                                </div>
+                                                <h3 class="figure-img-title">
+                                                    Redmi Note 13 Pro
+                                                </h3>
+                                                <p class="desc">
+                                                    小金刚品质
+                                                </p>
+                                                <p  class="price">
+                                                    <span class="num">1399</span>元起 
+                                                </p>
+                                            </a>
+                                        </li> 
+                                        <li class="brick-item brick-item-2">
+                                            <a href="">
+                                                <div class="figure-img">
+                                                    <img width="160" height="160" alt="Redmi Note 13 Pro+" data-src="//cdn.cnbj1.fds.api.mi-img.com/nr-pub/202309200034_b724e1ddef5a0bf5c79c273193b7073c.png?thumb=1&amp;w=200&amp;h=200&amp;f=webp&amp;q=90" src="//cdn.cnbj1.fds.api.mi-img.com/nr-pub/202309200034_b724e1ddef5a0bf5c79c273193b7073c.png?thumb=1&amp;w=200&amp;h=200&amp;f=webp&amp;q=90" lazy="loaded">
+                                                </div>
+                                                <h3 class="figure-img-title">
+                                                    Redmi Note 13 Pro+
+                                                </h3>
+                                                <p class="desc">
+                                                    天玑 7200-Ultra 处理器
+                                                </p>
+                                                <p  class="price">
+                                                    <span class="num">1899</span>元起
+                                                </p>
+                                            </a>
+                                        </li> 
+                                        <li class="brick-item brick-item-2">
+                                            <a href="">
+                                                <div class="figure-img">
+                                                    <img width="160" height="160" alt="Redmi Note 13 Pro" data-src="//cdn.cnbj1.fds.api.mi-img.com/nr-pub/202309200030_9a6a9bf107f4b4a7a25e4ccedf0c1174.png?thumb=1&amp;w=200&amp;h=200&amp;f=webp&amp;q=90" src="//cdn.cnbj1.fds.api.mi-img.com/nr-pub/202309200030_9a6a9bf107f4b4a7a25e4ccedf0c1174.png?thumb=1&amp;w=200&amp;h=200&amp;f=webp&amp;q=90" lazy="loaded">
+                                                </div>
+                                                <h3 class="figure-img-title">
+                                                    Redmi Note 13 5G
+                                                </h3>
+                                                <p class="desc">
+                                                    1 亿像素 更快更清晰
+                                                </p>
+                                                <p  class="price">
+                                                    <span class="num">999</span>元起 
+                                                </p>
+                                            </a>
+                                        </li> 
+                                    </ul>
+                                </div>
+                            </div>
