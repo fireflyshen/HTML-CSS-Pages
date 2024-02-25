@@ -634,11 +634,6 @@ ul.brick-items div:last-of-type li i::before {
     /* margin: 0; */
     color: #333;
 }
-
-.brick-item-s a div {
-    /* height: 100%; */
-}
-
 .brick-item-s i {
     position: absolute;
     right: 35px;
